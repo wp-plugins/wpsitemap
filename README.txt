@@ -7,7 +7,7 @@ Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-It is a wordpress sitemap plugin. Use shortcode [sitemap type="post" style="1" number="50"], [sitemap type="page"]
+Simple use shortcode [sitemap type="post"], [sitemap type="page"]
 
 == Description ==
 
