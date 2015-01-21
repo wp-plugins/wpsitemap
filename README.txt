@@ -7,14 +7,14 @@ Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Simple use shortcode [sitemap type="post"], [sitemap type="page"]
+Simple use shortcode [sitemap type="post"] or [sitemap type="page"]
 
 == Description ==
 
 = Full Shortcode =
 [sitemap type="post" style="1" number="-1" order="DESC" cat="" cat_name="" author="" year="" month="" ignore_sticky="1" offset=""]
 
-Major features in WP Sitemap include:
+= Major features in WP Sitemap include: =
 
 * Use Shortcode
 * More Customize
@@ -23,7 +23,7 @@ Major features in WP Sitemap include:
 = Shortcode =
 
 * Page list [sitemap type="page" style="1"]
-* Post List [sitemap],[sitemap type="post" style="2" number="25"]
+* Post List [sitemap] or [sitemap type="post" style="2" number="25"]
 
 * For more customize [sitemap type="page/post/(post type)" style="1/2/3/4" number="-1(unlimited),5,10,50..." order="DESC/ASC" year="2015/2014...." month="1(Jan)/2/3...."]
 
