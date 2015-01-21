@@ -11,19 +11,19 @@ Simple use shortcode [sitemap type="post"], [sitemap type="page"]
 
 == Description ==
 
-Full Shortcode [sitemap type="post" style="1" number="-1" order="DESC" cat="" cat_name="" author="" year="" month="" ignore_sticky="1" offset=""]
+= Full Shortcode =
+[sitemap type="post" style="1" number="-1" order="DESC" cat="" cat_name="" author="" year="" month="" ignore_sticky="1" offset=""]
 
 Major features in WP Sitemap include:
 
 * Use Shortcode
 * More Customize
-* features Add
 * 4 Style Layout
 
 = Shortcode =
 
-* Page list [sitemap type="page"]
-* Post List [sitemap],[sitemap type="post"]
+* Page list [sitemap type="page" style="1"]
+* Post List [sitemap],[sitemap type="post" style="2" number="25"]
 
 * For more customize [sitemap type="page/post/(post type)" style="1/2/3/4" number="-1(unlimited),5,10,50..." order="DESC/ASC" year="2015/2014...." month="1(Jan)/2/3...."]
 
