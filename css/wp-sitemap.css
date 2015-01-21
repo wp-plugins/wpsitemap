@@ -1,0 +1,116 @@
+/**==================================
+	WP Sitemap Core Style
+==================================**/
+
+#wp_sitemap{
+	margin-top:20px;
+	margin-bottom:20px;
+}
+
+#wp_sitemap #wp_sitemap_item{
+	margin: 0;
+	padding: 0;
+}
+
+#wp_sitemap #wp_sitemap_item li{
+	position: relative;
+	margin-bottom: -1px;
+}
+
+#wp_sitemap #wp_sitemap_item li a{
+	font-size: 14px;
+	font-weight: normal;
+	line-height: 22px;
+	display: block;
+	text-decoration:none;
+}
+
+#wp_sitemap #wp_sitemap_item li a:hover{
+	text-decoration:none;
+}
+
+/**==================================
+	WP Sitemap Style 1
+==================================**/
+
+#wp_sitemap ul.wpsstyle-1{
+	border-radius: 4px;
+	list-style:none;
+}
+
+#wp_sitemap ul.wpsstyle-1 li{
+	border: 1px solid #ddd;
+}
+
+#wp_sitemap ul.wpsstyle-1 li a{
+	background-color: #fff;
+	padding: 10px 15px;
+	color: #666;
+}
+
+#wp_sitemap ul.wpsstyle-1 li a:hover{
+	background-color:#F5F5F5;
+	color:#000;
+}
+
+/**==================================
+	WP Sitemap Style 2
+==================================**/
+
+#wp_sitemap ul.wpsstyle-2{
+	border-radius: 4px;
+	list-style:none;
+}
+
+#wp_sitemap ul.wpsstyle-2 li{
+	border: 1px solid #ddd;
+}
+
+#wp_sitemap ul.wpsstyle-2 li a{
+	background-color: #fff;
+	padding: 10px 15px;
+	color: #337AB7;
+}
+
+#wp_sitemap ul.wpsstyle-2 li a:hover{
+	background-color:#F5F5F5;
+	color:#2368A7;
+}
+
+
+/**==================================
+	WP Sitemap Style 3
+==================================**/
+
+#wp_sitemap ul.wpsstyle-3{
+	list-style:none;
+}
+
+#wp_sitemap ul.wpsstyle-3 li a{
+	color: #337AB7;
+	padding: 6px;
+}
+
+#wp_sitemap ul.wpsstyle-3 li a:hover{
+	color:#2368A7;
+}
+
+/**==================================
+	WP Sitemap Style 4
+==================================**/
+
+#wp_sitemap ul.wpsstyle-4 li{
+	margin-left:20px;
+}
+
+#wp_sitemap ul.wpsstyle-4 li a{
+	color: #337AB7;
+	padding: 6px;
+}
+
+#wp_sitemap ul.wpsstyle-4 li a:hover{
+	color:#2368A7;
+}
+
+
+
