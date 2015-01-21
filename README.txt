@@ -14,7 +14,7 @@ Simple use shortcode [sitemap type="post"] or [sitemap type="page"]
 = Full Shortcode =
 [sitemap type="post" style="1" number="-1" order="DESC" cat="" cat_name="" author="" year="" month="" ignore_sticky="1" offset=""]
 
-= Major features in WP Sitemap include: =
+= Major Features =
 
 * Use Shortcode
 * More Customize
